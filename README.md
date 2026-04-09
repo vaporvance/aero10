@@ -29,8 +29,8 @@ Aero10.1 themes are targeting to be work on **Windows 11**. Check DeviantArt pag
 
 | Name | Description | Version | Link |
 | - | - | - | - |
-| Aero10.1: Seven | A full port of Windows 7 theme. Dark mode included | v1.0.0 | [a10p1-seven.zip](https://github.com/vaporvance/aero10/releases/download/a10.1-seven-v1.0.0/a10p1-seven.zip) |
-| Gray7 | A full dark mode theme based on Windows 7 appearance | v1.0.0 | [gray7.zip](https://github.com/vaporvance/aero10/releases/download/a10.1-seven-v1.0.0/gray7.zip) |
+| Aero10.1: Seven | A full port of Windows 7 theme. Dark mode included | v1.0.0 |[![da](https://st.deviantart.net/eclipse/icons/favicon-v2-16x16.png)](https://www.deviantart.com/vaporvance/art/1319714143) • [a10p1-seven.zip](https://github.com/vaporvance/aero10/releases/download/a10.1-seven-v1.0.0/a10p1-seven.zip) |
+| Gray7 | A full dark mode theme based on Windows 7 appearance | v1.0.0 | [![da](https://st.deviantart.net/eclipse/icons/favicon-v2-16x16.png)](https://www.deviantart.com/vaporvance/art/1319714143) • [gray7.zip](https://github.com/vaporvance/aero10/releases/download/a10.1-seven-v1.0.0/gray7.zip) |
 
 ## Aero10
 
