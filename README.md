@@ -11,23 +11,17 @@
   <span align="center">A collection of custom themes that brings 'Windows Aero' appearance from various eras to the modern version of Windows</span>
 </p>
 <h3 align="center">
+  <a href="#Roadmap">Roadmap</a>
+  <span>•</span>
   <a href="#compatibility">Compatibility</a>
   <span>•</span>
   <a href="#Installation">Installation</a>
   <span>•</span>
-  <a href="#Credits">Credits</a>
+  <a href="#credits">Credits</a>
+   <!--
+  <span>•</span>
+  <a href="#Credits">Credits</a> -->
 </h3>
-
-## Aero10
-
-Aero10 themes are targeting to be work on **Windows 10**. Check DeviantArt page for more info and screenshot.
-
-| Name | Description | Version | Link |
-| - | - | - | - |
-| Aero10: Seven | Windows 7 theme | v1.0.6-re | [![da](https://st.deviantart.net/eclipse/icons/favicon-v2-16x16.png)](https://www.deviantart.com/vaporvance/art/Aero10-Vista-Seven-909711949) • [Release](https://github.com/vaporvance/aero10/releases)|
-| Aero10: Vista | Windows Vista theme | v1.0.6 | [![da](https://st.deviantart.net/eclipse/icons/favicon-v2-16x16.png)](https://www.deviantart.com/vaporvance/art/Aero10-Vista-Seven-909711949) • [Release](https://github.com/vaporvance/aero10/releases)|
-| Aero10: Metro | Windows 8/8.1 theme | v1.2.1 |[![da](https://st.deviantart.net/eclipse/icons/favicon-v2-16x16.png)](https://www.deviantart.com/vaporvance/art/Aero10-Metro-1006184615) • [Release](https://github.com/vaporvance/aero10/releases)|
-| Aero10: 7000 | Windows 7 beta (Build 7000) theme | v1.0.0-re |[![da](https://st.deviantart.net/eclipse/icons/favicon-v2-16x16.png)](https://www.deviantart.com/vaporvance/art/Aero10-7000-1001839916) • [Release](https://github.com/vaporvance/aero10/releases)|
 
 ## Aero10.1
 
@@ -35,8 +29,36 @@ Aero10.1 themes are targeting to be work on **Windows 11**. Check DeviantArt pag
 
 | Name | Description | Version | Link |
 | - | - | - | - |
-| Aero10.1: Seven | A full port of Windows 7 theme. Dark mode included | v1.0-beta | - |
-| GRAY7 | A full dark mode theme based on Windows 7 appearance | v1.0-beta | - |
+| Aero10.1: Seven | A full port of Windows 7 theme. Dark mode included | v1.0.0 | [a10p1-seven.zip](https://github.com/vaporvance/aero10/releases/download/a10.1-seven-v1.0.0/a10p1-seven.zip) |
+| Gray7 | A full dark mode theme based on Windows 7 appearance | v1.0.0 | [gray7.zip](https://github.com/vaporvance/aero10/releases/download/a10.1-seven-v1.0.0/gray7.zip) |
+
+## Aero10
+
+Aero10 themes are targeting to be work on **Windows 10**. Check DeviantArt page for more info and screenshot.
+
+> [!WARNING]
+> Do not expect any Aero10 update in the future except for critical update as my computer is not capable for Windows 10 anymore. Decided to upload it here just for archival purpose in case if DeviantArt goes wrong.
+
+| Name | Description | Link |
+| - | - | - |
+| Aero10: Seven | Windows 7 theme  | [![da](https://st.deviantart.net/eclipse/icons/favicon-v2-16x16.png)](https://www.deviantart.com/vaporvance/art/Aero10-Vista-Seven-909711949) • [aero10-seven.zip](https://github.com/vaporvance/aero10/releases/download/a10-reset/aero10-7000.zip)|
+| Aero10: Vista | Windows Vista theme | [![da](https://st.deviantart.net/eclipse/icons/favicon-v2-16x16.png)](https://www.deviantart.com/vaporvance/art/Aero10-Vista-Seven-909711949) • [aero10-vista.zip](https://github.com/vaporvance/aero10/releases/download/a10-reset/aero10-vista.zip)|
+| Aero10: Metro | Windows 8/8.1 theme  |[![da](https://st.deviantart.net/eclipse/icons/favicon-v2-16x16.png)](https://www.deviantart.com/vaporvance/art/Aero10-Metro-1006184615) • [aero10-metro.zip](https://github.com/vaporvance/aero10/releases/download/a10-reset/aero10-metro.zip)|
+| Aero10: 7000 | Windows 7 beta (Build 7000) theme |[![da](https://st.deviantart.net/eclipse/icons/favicon-v2-16x16.png)](https://www.deviantart.com/vaporvance/art/Aero10-7000-1001839916) • [aero10-7000.zip](https://github.com/vaporvance/aero10/releases/download/a10-reset/aero10-7000.zip)|
+
+## Roadmap
+
+Here is the roadmap of this project. Please do not ask for ETA.
+
+| Name | Progress |
+| -------- | -------- |
+| Aero10.1: Seven | ✅ Completed |
+| Gray7 | ✅ Completed |
+| Aero10.1: Metro | 📌 Planned |
+| Gray8 & Gray8.1 | 📌 Planned |
+| Aero10.1: Vista | ❌ Not Planned  |
+| All Aero10 themes | ❌ Discontinued |
+
 
 ## Compatibility
 **Aero10** is designed to be working on following Windows 10 version 
@@ -81,7 +103,7 @@ Aero10.1 themes are targeting to be work on **Windows 11**. Check DeviantArt pag
     - [UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php?lang=en)
     - [SecureUxTheme](https://github.com/namazso/SecureUxTheme)
     - [UXTheme hook](https://windhawk.net/mods/uxtheme-hook) Windhawk mod
-2. Extract the downloaded package and place the contents in C:\Windows\Resources\Themes
+2. Extract the downloaded zip and place the contents in C:\Windows\Resources\Themes
 3. Apply the theme through Windows Settings > Personalization page
 
 The theme should apply now, if the theme is not  working, check if your system have been patched correctly
@@ -137,7 +159,7 @@ The theme should apply now, if the theme is not  working, check if your system h
 7. Restart Windows Explorer once to prevent any error
 </details>
 
-### If you are on Windows 11, you need more more work to do
+### Windows 11-specific setup
 <details ><summary>21H2-24H2 Command bar-styled setup</summary>
 
 - To get Aerexplorer working, you need to replace explorerframe.dll with the one from build 21332 and use [this fork of Aerexplorer](ss)
@@ -149,17 +171,22 @@ The theme should apply now, if the theme is not  working, check if your system h
 
 </details>
 
-<!-- 
+
 ## Credits
+<!--
 - [sdasfasfasf](test) for a Windows 7 OpenGlass preset
 - [sdasfasfasf](test) for a Windows 8 OpenGlass preset
 - [sdasfasfasf](test) for a Windows Vista OpenGlass preset
-- [sdasfasfasf](test) for an Aerexplorer fork for Windows 11
--->
-
+- [sdasfasfasf](test) for an Aerexplorer fork for Windows 11  -->
+- Microsoft for original themes, wallpapers from Windows Vista, Windows 7 and Windows 8/8.1
+- [ojask](https://github.com/ojask) for Aero10: Vista Control Panel Sidebar idea
+	
 ## Licensing
 This project distributed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 License, See License tab for more information.
 
 Windows Vista, Windows 7, Windows 8, Windows logo are trademarks/registered trademarks of Microsoft.
+
+## Support
+I just learn to setup Ko-fi yesterday
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/vaporvance)
