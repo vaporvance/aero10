@@ -1,7 +1,7 @@
 <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset=".github/banner/banner-light.png" />
-      <img src=".github/banner/banner-dark.png" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset=".github/banner/banner-light.png" />
+    <img src=".github/banner/banner-dark.png" />
   </picture>
 </p>
 <h1 align="center">
@@ -18,33 +18,40 @@
   <a href="#Installation">Installation</a>
   <span>•</span>
   <a href="#credits">Credits</a>
-   <!--
-  <span>•</span>
-  <a href="#Credits">Credits</a> -->
 </h3>
 
 ## Aero10.1
 
-Aero10.1 themes are targeting to be work on **Windows 11**. Check DeviantArt page for more info and screenshot.
+Aero10.1 themes are targeting to be work on **Windows 11** with Start menu and Taskbar theming support (requires Explorer7)
 
-| Name | Description | Version | Link |
-| - | - | - | - |
-| Aero10.1: Seven | A full port of Windows 7 theme. Dark mode included | v1.0.0 |[![da](https://st.deviantart.net/eclipse/icons/favicon-v2-16x16.png)](https://www.deviantart.com/vaporvance/art/1319714143) • [a10p1-seven.zip](https://github.com/vaporvance/aero10/releases/download/a10.1-seven-v1.0.0/a10p1-seven.zip) |
-| Gray7 | A full dark mode theme based on Windows 7 appearance | v1.0.0 | [![da](https://st.deviantart.net/eclipse/icons/favicon-v2-16x16.png)](https://www.deviantart.com/vaporvance/art/1319714143) • [gray7.zip](https://github.com/vaporvance/aero10/releases/download/a10.1-seven-v1.0.0/gray7.zip) |
+### Aero10.1: Seven
+
+A full port of Windows 7 theme. Dark mode included
+
+<details>
+<summary>Aero10.1: Seven screenshot</summary>
+<img src=".github/screenshots/a10p1-seven.png" />
+</details>
+
+### Gray7
+
+A full dark mode theme based on Windows 7 appearance 
+
+<details>
+<summary>Gray7 screenshot</summary>
+<img src=".github/screenshots/a10p1-seven.png" />
+</details>
+
+#### [Get the latest Aero10.1: Seven and Gray7 in GitHub Releases](https://github.com/vaporvance/aero10/releases/tag/a10.1-seven-v1.0.1)
 
 ## Aero10
 
-Aero10 themes are targeting to be work on **Windows 10**. Check DeviantArt page for more info and screenshot.
+Aero10 themes are targeting to be work on **Windows 10**.
 
 > [!WARNING]
 > Do not expect any Aero10 update in the future except for critical update as my computer is not capable for Windows 10 anymore. Decided to upload it here just for archival purpose in case if DeviantArt goes wrong.
 
-| Name | Description | Link |
-| - | - | - |
-| Aero10: Seven | Windows 7 theme  | [![da](https://st.deviantart.net/eclipse/icons/favicon-v2-16x16.png)](https://www.deviantart.com/vaporvance/art/Aero10-Vista-Seven-909711949) • [aero10-seven.zip](https://github.com/vaporvance/aero10/releases/download/a10-reset/aero10-7000.zip)|
-| Aero10: Vista | Windows Vista theme | [![da](https://st.deviantart.net/eclipse/icons/favicon-v2-16x16.png)](https://www.deviantart.com/vaporvance/art/Aero10-Vista-Seven-909711949) • [aero10-vista.zip](https://github.com/vaporvance/aero10/releases/download/a10-reset/aero10-vista.zip)|
-| Aero10: Metro | Windows 8/8.1 theme  |[![da](https://st.deviantart.net/eclipse/icons/favicon-v2-16x16.png)](https://www.deviantart.com/vaporvance/art/Aero10-Metro-1006184615) • [aero10-metro.zip](https://github.com/vaporvance/aero10/releases/download/a10-reset/aero10-metro.zip)|
-| Aero10: 7000 | Windows 7 beta (Build 7000) theme |[![da](https://st.deviantart.net/eclipse/icons/favicon-v2-16x16.png)](https://www.deviantart.com/vaporvance/art/Aero10-7000-1001839916) • [aero10-7000.zip](https://github.com/vaporvance/aero10/releases/download/a10-reset/aero10-7000.zip)|
+#### [Aero10 archive in GitHub Releases](https://github.com/vaporvance/aero10/releases/tag/a10-reset)
 
 ## Roadmap
 
@@ -57,7 +64,8 @@ Here is the roadmap of this project. Please do not ask for ETA.
 | Aero10.1: Metro | 📌 Planned |
 | Gray8 & Gray8.1 | 📌 Planned |
 | Aero10.1: Vista | ❌ Not Planned  |
-| All Aero10 themes | ❌ Discontinued |
+| GrayVista | ❌ Not Planned  |
+| All Aero10 themes | ❌❌❌ Discontinued |
 
 
 ## Compatibility
@@ -186,7 +194,6 @@ This project distributed under Creative Commons Attribution-NonCommercial-ShareA
 
 Windows Vista, Windows 7, Windows 8, Windows logo are trademarks/registered trademarks of Microsoft.
 
-## Support
-I just learn to setup Ko-fi yesterday
+## 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/vaporvance)
