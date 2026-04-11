@@ -39,7 +39,7 @@ A full dark mode theme based on Windows 7 appearance
 
 <details>
 <summary>Gray7 screenshot</summary>
-<img src=".github/screenshots/a10p1-seven.png" />
+<img src=".github/screenshots/gray7.png" />
 </details>
 
 #### [Get the latest Aero10.1: Seven and Gray7 in GitHub Releases](https://github.com/vaporvance/aero10/releases/tag/a10.1-seven-v1.0.1)
