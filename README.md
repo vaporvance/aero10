@@ -51,7 +51,7 @@ Aero10 themes are targeting to be work on **Windows 10**.
 > [!WARNING]
 > Do not expect any Aero10 update in the future except for critical update as my computer is not capable for Windows 10 anymore. Decided to upload it here just for archival purpose in case if DeviantArt goes wrong.
 
-#### [Aero10 archive in GitHub Releases](https://github.com/vaporvance/aero10/releases/tag/a10-reset)
+#### [Aero10 archive in GitHub Releases](https://github.com/vaporvance/aero10/releases/tag/a10-archive)
 
 ## Roadmap
 
