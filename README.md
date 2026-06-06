@@ -42,7 +42,7 @@ A full dark mode theme based on Windows 7 appearance
 <img src=".github/screenshots/gray7.png" />
 </details>
 
-#### [Get the latest Aero10.1: Seven and Gray7 in GitHub Releases](https://github.com/vaporvance/aero10/releases/tag/a10.1-seven-v1.0.2)
+#### [Get the latest Aero10.1: Seven and Gray7 in GitHub Releases](https://github.com/vaporvance/aero10/releases/tag/seven-v1.0.3)
 
 ## Aero10
 
@@ -63,7 +63,7 @@ Here is the roadmap of this project. Please do not ask for ETA.
 | Gray7 | ✅ Completed |
 | Aero10.1: Metro | 📌 Planned |
 | Gray8 & Gray8.1 | 📌 Planned |
-| Aero10.1: Vista | ❌ Not Planned  |
+| Aero10.1: Vista | 📌 Planned  |
 | GrayVista | ❌ Not Planned  |
 | All Aero10 themes | ❌❌❌ Discontinued |
 
